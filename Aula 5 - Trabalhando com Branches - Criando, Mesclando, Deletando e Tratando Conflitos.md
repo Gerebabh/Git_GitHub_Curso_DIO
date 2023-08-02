@@ -1,6 +1,6 @@
 # :books: Aula 5 - Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
 
-Caso precise consultar os comandos básicos do Git, clique [aqui](https://github.com/Gerebabh/Git_GitHub_Curso_DIO).
+Caso precise consultar os comandos básicos do Git, clique [aqui]([Git_GitHub_Curso_DIO/Aula 0 - Estrutura Git - Comandos Básicos.md at main · Gerebabh/Git_GitHub_Curso_DIO](https://github.com/Gerebabh/Git_GitHub_Curso_DIO/blob/main/Aula 0 - Estrutura Git - Comandos Básicos.md)).
 
 Definições do que é Branch Aula 1
 

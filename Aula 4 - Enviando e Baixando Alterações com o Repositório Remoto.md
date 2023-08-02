@@ -1,6 +1,6 @@
 # :books: Aula 4 - Enviando e Baixando Alterações com o Repositório Remoto
 
-Caso precise consultar os comandos básicos do Git, clique  [aqui](https://github.com/Gerebabh/Git_GitHub_Curso_DIO).
+Caso precise consultar os comandos básicos do Git, clique [aqui]([Git_GitHub_Curso_DIO/Aula 0 - Estrutura Git - Comandos Básicos.md at main · Gerebabh/Git_GitHub_Curso_DIO](https://github.com/Gerebabh/Git_GitHub_Curso_DIO/blob/main/Aula 0 - Estrutura Git - Comandos Básicos.md)).
 
 Depois de organizar o repositório local e ter arquivos já commitados prontos para serem enviados (pushed) para o repositório remoto, os passos a seguir serão descritos abaixo.
 
