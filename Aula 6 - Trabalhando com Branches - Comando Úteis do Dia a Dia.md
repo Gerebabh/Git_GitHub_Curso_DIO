@@ -1,6 +1,6 @@
 # :books: Aula 6 - Trabalhando com Branches - Comando Úteis do Dia a Dia
 
-Caso precise consultar os comandos básicos do Git, clique [aqui](https://github.com/Gerebabh/Git_GitHub_Curso_DIO/blob/64f89376616ddaf8e9c9a244bb4b806c81d33d89/Aula%200%20-%20Estrutura%20Git%20-%20Comandos%20B%C3%A1sicos.md).
+Caso precise consultar os comandos básicos do Git, clique [aqui](./Aula%200%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
 
 Definições do que é Branch Aula 1
 

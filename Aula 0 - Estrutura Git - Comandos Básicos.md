@@ -2,7 +2,14 @@
 
 ### :computer: Estrutura e Comandos Git
 
-![fluxo_git](https://github.com/Gerebabh/Git_GitHub_Curso_DIO/blob/main/img/fluxo_git.jpg)
+```mermaid
+graph LR
+  UNTRACKED -->|Adiciona o arquivo| STAGED
+  UNTRACKED -->|Remove o arquivo| UNTRACKED
+  UNMODIFIED -->|Edita o arquivo| MODIFIED
+  MODIFIED -->|"Staged" arquivo| STAGED
+  STAGED -->|COMMIT| UNMODIFIED
+```
 
 1. **Untracked (Não rastreado)**: Arquivos que existem no seu sistema de arquivos local, mas ainda não foram adicionados ao controle de versão do Git. O Git não tem conhecimento desses arquivos.
 2. **Unmodified (Não modificado)**: Arquivos que estão sendo rastreados pelo Git e não foram modificados desde o último commit. O Git está ciente desses arquivos e não há alterações pendentes neles.
@@ -73,7 +80,7 @@ cat .git/config
 
 **`git remote -v`** - Verifica os repositórios que estão configurados (local e remoto).
 
-**`git push -u origin main`** - Envia os arquivos constantes no repositório local “master” para o repositório remoto.
+**`git push -u origin main`** - Envia os arquivos constantes no repositório local “main” para o repositório remoto.
 
 **`git pull origin main`** - Busca para o diretório local todos os arquivos do diretório remoto.
 
