@@ -111,3 +111,5 @@ Esta é uma prática recomendada utilizar o arquivo `.gitignore` para evitar que
 **`git checkout [branch]`** - Muda para a branch especificada. Isso pode ser útil para alternar entre diferentes branches do repositório.
 
 **`git merge [branch]`** - Mescla as alterações da branch especificada na branch atual. Isso pode ser útil para combinar o trabalho feito em diferentes branches.
+
+**`git config --global core.quotepath off`** -  FGit exibirá corretamente os nomes de arquivos com caracteres não-ASCII, desde que o terminal utilizado suporte a codificação UTF-8. Caso seja necessário reverter esse comando, basta alterar `off` para `on` executando o comando `git config --global core.quotepath on`. Isso fará com que o Git volte a usar a representação em octal para exibir caracteres não-ASCII nos nomes de arquivos quando você executar comandos como `git status`.

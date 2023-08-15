@@ -1,4 +1,4 @@
-# :books: Aula 5 - Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
+# :books:Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
 
 Caso precise consultar os comandos básicos do Git, clique [aqui](./Aula%200%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
 

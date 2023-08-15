@@ -1,4 +1,4 @@
-# :books: Aula 6 - Trabalhando com Branches - Comando Úteis do Dia a Dia
+# :books: Trabalhando com Branches - Comando Úteis do Dia a Dia
 
 Caso precise consultar os comandos básicos do Git, clique [aqui](./Aula%200%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
 
