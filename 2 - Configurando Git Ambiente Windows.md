@@ -18,7 +18,7 @@ Este guia irá ajudá-lo a configurar o Git em seu ambiente para que você possa
    Na janela aberta, você verá algo como:
 
    ```css
-   [Nome do computador][MINGw64(nome do compilador)][Endereço ao qual o terminal está apontando]
+   [Nome do computador][MINGw64(nome do compilador)]["Endereço ao qual o terminal está apontando"]
    ```
 
 3. **Sintaxe de Comando - Git**
@@ -48,7 +48,7 @@ Este guia irá ajudá-lo a configurar o Git em seu ambiente para que você possa
      git config --global init.defaultBranch main  # Configura para que todo novo repositório a ser criado a branch padrão será nomeada como main.
      ```
 
-     Maiores detalhes sobre Branches podem ser encontrados [aqui.](./Aula%205%20-%20Trabalhando%20com%20Branches%20-%20Criando%2C%20Mesclando%2C%20Deletando%20e%20Tratando%20Conflitos.md)
+     Maiores detalhes sobre Branches podem ser encontrados [aqui.](./10%20-%20Trabalhando%20com%20Branches%20-%20Criando%2C%20Mesclando%2C%20Deletando%20e%20Tratando%20Conflitos.md)
 
      Utilize estes comando para definir estas configurações no Git.
 

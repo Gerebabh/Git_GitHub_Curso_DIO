@@ -79,5 +79,5 @@ git remote -v
 
 Caso conectado ele apresentará o endereço do repositório remoto que de forma convencionada é chamado `origin`. Caso realize este comando em um diretório que não está associado a um repositório remoto não trará nenhum resultado na consulta.
 
-Para conhecer mais comandos básicos do Git, clique [aqui](./Aula%200%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
+Para conhecer mais comandos básicos do Git, clique [aqui](./5%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
 
