@@ -1,6 +1,6 @@
 # :books: Enviando e Baixando Alterações com o Repositório Remoto
 
-Caso precise consultar os comandos básicos do Git, clique [aqui](./5%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
+Caso precise consultar os comandos básicos do Git, clique [aqui](./05%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
 
 Depois de organizar o repositório local e ter arquivos já commitados prontos para serem enviados (pushed) para o repositório remoto, os passos a seguir serão descritos abaixo.
 

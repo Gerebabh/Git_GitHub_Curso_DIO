@@ -1,6 +1,6 @@
 # :books: Trabalhando com Branches - Comando Úteis do Dia a Dia
 
-Caso precise consultar os comandos básicos do Git, clique [aqui](./5%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
+Caso precise consultar os comandos básicos do Git, clique [aqui](./05%20-%20Estrutura%20Git%20-%20Comandos%20Básicos.md).
 
 Definições do que é Branch Aula 1
 
